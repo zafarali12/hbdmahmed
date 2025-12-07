@@ -70,7 +70,7 @@ function App() {
                       boxShadow: "0 4px 6px rgba(0,0,0,0.2)",
                     }}
                   >
-                    ▶️ Play Birthday Music
+                    ▶️ PRESS ME 
                   </button>
                 </div>
               </>
